@@ -24,13 +24,24 @@ Please write it in Golang or Node with a CI script that runs tests and produces 
 Result Test
 
 === RUN   TestScenario1
+
     main_test.go:154: Scenario1 : 5399.99
+
 --- PASS: TestScenario1 (0.00s)
+
 === RUN   TestScenario2
+
     main_test.go:164: Scenario2 : 99.98
+
 --- PASS: TestScenario2 (0.00s)
+
 === RUN   TestScenario3
+
     main_test.go:173: Scenario3 : 295.65
+
 --- PASS: TestScenario3 (0.00s)
+
 PASS
+
 ok  	command-line-arguments	(cached)
+
