@@ -351,8 +351,6 @@ func main() {
     if err != nil {
       fmt.Println(err)
     }
-
-
 	app.scenariosList = dataModel.Data.List
 
 	cartItem := map[string]int{"43N23P": 1 , "234234": 1}
